@@ -1,5 +1,6 @@
 # Gameasian
-Building snake and apple game using pygame module and python,
+# Snake and Apple Game
+Building snake🐍 and apple🍎 game using pygame module and python,
 Snake and apple is a 
 simple game where when snake eats an apple it gets longer and your score increases. 
 If you snake hits any part of its body it will die.
